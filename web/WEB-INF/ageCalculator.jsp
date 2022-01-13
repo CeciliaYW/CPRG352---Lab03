@@ -1,7 +1,7 @@
 <%-- 
     Document   : ageCalculator
     Created on : 23-Sep-2021, 12:19:29 PM
-    Author     : User
+    Author     : Cecilia Wang
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
